@@ -1,2 +1,2 @@
 # Taremwa-
-Education concern 
+Technology concern
